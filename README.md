@@ -45,3 +45,8 @@ I am Md Sajid Alam, graduated in Electrical Engineering of 2025 batch from **Jam
 D) Why should me ???
 
 With a professional training from VLSI training institute, I have honed my skills in digital design, functional coverage, Object Oriented Programming and Data Structures, UVM and Verilog—skills that I believe align perfectly with the requirements of the role and will enable me to make a significant contribution to your team.
+
+
+E) Contact Details:
+E mail Id: sajidfiroz100@gmail.com
+Mob: +91 7061773847
